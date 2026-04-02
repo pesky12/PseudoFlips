@@ -1,1 +1,3 @@
-Gullible
+fn main() {
+    println!("gullible");
+}
